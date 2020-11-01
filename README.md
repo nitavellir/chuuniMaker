@@ -1,8 +1,18 @@
 # chuuniMaker
 
+## How To Use
+
+* `/chuuni （厨二度指定） テキスト`
+  * 厨二度（0: 弱, 1: 強）
+  * 厨二度を指定しない場合、デフォルトの厨二度は0
+
 ## 動作環境
 
 * Slack → AWS API Gateway → AWS Lambda
+
+## Slack設定
+
+* スラッシュコマンドのappを作成
 
 ## API Gateway設定
 
